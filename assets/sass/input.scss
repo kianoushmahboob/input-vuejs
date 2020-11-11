@@ -1,0 +1,13 @@
+input { 
+    border :1px solid red ;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+.highlightText { 
+  background-color: yellow;
+}
